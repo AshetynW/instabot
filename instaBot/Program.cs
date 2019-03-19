@@ -15,8 +15,8 @@ namespace instaBot
     class Program
     {
         #region Hidden
-        private const string username = "robot.ima";
-        private const string password = "Fubar865";
+        private const string username = "";
+        private const string password = "";
         #endregion
 
         private static UserSessionData user;
